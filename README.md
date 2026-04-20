@@ -1,28 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=YOUR%20NAME&fontAlign=50&fontAlignY=38&fontSize=64&desc=CYBERPUNK%20DEVELOPER%20INTERFACE&descAlign=50&descAlignY=62&animation=fadeIn&color=0:050509,30:0b1026,60:00d9ff,100:ff2fd6&fontColor=f8faff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=290&text=YOUR%20NAME&fontAlign=50&fontAlignY=38&fontSize=66&desc=CYBERPUNK%20PROFILE%20INTERFACE&descAlign=50&descAlignY=62&animation=fadeIn&color=0:050509,30:071226,60:00e5ff,100:ff2fd6&fontColor=f8faff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZED...;NEON+MODE+ACTIVATED;BUILDING+THE+FUTURE+WITH+CODE;WELCOME+TO+MY+DIGITAL+REALM" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=2600&pause=800&color=FF2FD6&center=true&vCenter=true&width=900&lines=NEON+SYSTEM+ONLINE;BLUE+%2B+PINK+MODE+ACTIVATED;BUILDING+THE+FUTURE+WITH+CODE;WELCOME+TO+MY+DIGITAL+REALM" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&labelColor=050509" />
 <img src="https://img.shields.io/badge/THEME-CYBERPUNK-ff2fd6?style=for-the-badge&labelColor=050509" />
 <img src="https://img.shields.io/badge/MODE-BLUE%20x%20PINK-7a5cff?style=for-the-badge&labelColor=050509" />
-<img src="https://img.shields.io/badge/SYSTEM-FUTURE%20READY-00e5ff?style=for-the-badge&labelColor=050509" />
+<img src="https://img.shields.io/badge/SIGNAL-STABLE-00e5ff?style=for-the-badge&labelColor=050509" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00e5ff,50:7a5cff,100:ff2fd6" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 ```txt
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              N E O N   P R O F I L E   O N L I N E         ║
+║              N E O N   I N T E R F A C E   L O A D E D     ║
 ║                                                              ║
-║       Identity loaded · Signal stable · Interface active     ║
+║           Identity verified · Signal locked · Core active    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -31,11 +35,17 @@
 
 ---
 
-## ✦ NAME
+<details open>
+<summary>
+  <img src="https://img.shields.io/badge/✦%20NAME%20MODULE-ff2fd6?style=for-the-badge&labelColor=050509" />
+</summary>
+
+<br/>
 
 ```bash
 > boot identity.core
 > access granted
+> loading user profile...
 ```
 
 ```txt
@@ -45,11 +55,19 @@ Role        : Developer / Designer / Builder
 Location    : YOUR_CITY, YOUR_COUNTRY
 Theme       : Cyberpunk · Neon · Future Interface
 Status      : Learning, building, evolving
+Signal      : Blue / Pink / Electric
 ```
+
+</details>
 
 ---
 
-## ✦ OVERVIEW
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/✦%20OVERVIEW-00e5ff?style=for-the-badge&labelColor=050509" />
+</summary>
+
+<br/>
 
 ```bash
 > cat overview.txt
@@ -68,13 +86,20 @@ should feel human, intelligent, and inspiring.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00e5ff,50:7a5cff,100:ff2fd6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e5ff,50:7a5cff,100:ff2fd6" />
 
 </div>
 
+</details>
+
 ---
 
-## ✦ INTERESTS
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/✦%20INTERESTS-ff2fd6?style=for-the-badge&labelColor=050509" />
+</summary>
+
+<br/>
 
 ```bash
 > scan --interests --neon
@@ -104,9 +129,16 @@ should feel human, intelligent, and inspiring.
 08. Turning ideas into real, working systems
 ```
 
+</details>
+
 ---
 
-## ✦ TECH STACK
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/✦%20TECH%20STACK-00e5ff?style=for-the-badge&labelColor=050509" />
+</summary>
+
+<br/>
 
 ```bash
 > load tech_stack.json
@@ -116,13 +148,13 @@ should feel human, intelligent, and inspiring.
 
 <img src="https://img.shields.io/badge/HTML5-050509?style=for-the-badge&logo=html5&logoColor=ff2fd6" />
 <img src="https://img.shields.io/badge/CSS3-050509?style=for-the-badge&logo=css3&logoColor=00e5ff" />
-<img src="https://img.shields.io/badge/JavaScript-050509?style=for-the-badge&logo=javascript&logoColor=ffea00" />
+<img src="https://img.shields.io/badge/JavaScript-050509?style=for-the-badge&logo=javascript&logoColor=ff2fd6" />
 <img src="https://img.shields.io/badge/TypeScript-050509?style=for-the-badge&logo=typescript&logoColor=00e5ff" />
 <img src="https://img.shields.io/badge/React-050509?style=for-the-badge&logo=react&logoColor=00e5ff" />
 <img src="https://img.shields.io/badge/Next.js-050509?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Python-050509?style=for-the-badge&logo=python&logoColor=ff2fd6" />
 <img src="https://img.shields.io/badge/Git-050509?style=for-the-badge&logo=git&logoColor=ff2fd6" />
-<img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&logo=github&logoColor=00e5ff" />
 <img src="https://img.shields.io/badge/VS%20Code-050509?style=for-the-badge&logo=visualstudiocode&logoColor=00e5ff" />
 
 </div>
@@ -134,9 +166,16 @@ Design      : UI systems · Visual identity · Cyberpunk interfaces
 Tools       : Git · GitHub · VS Code · Terminal
 ```
 
+</details>
+
 ---
 
-## ✦ CURRENT MISSION
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/✦%20CURRENT%20MISSION-ff2fd6?style=for-the-badge&labelColor=050509" />
+</summary>
+
+<br/>
 
 ```bash
 > mission --status
@@ -152,9 +191,16 @@ Energy     : Neon charged
 Objective  : Create work that is useful, beautiful, and unforgettable
 ```
 
+</details>
+
 ---
 
-## ✦ FEATURED PROJECTS
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/✦%20FEATURED%20PROJECTS-00e5ff?style=for-the-badge&labelColor=050509" />
+</summary>
+
+<br/>
 
 ```bash
 > ls ./projects
@@ -166,9 +212,16 @@ Objective  : Create work that is useful, beautiful, and unforgettable
 | [PROJECT_TWO](https://github.com/YOUR_USERNAME/PROJECT_TWO) | A creative coding experiment with strong visual identity. | JavaScript · Canvas | Experimental |
 | [PROJECT_THREE](https://github.com/YOUR_USERNAME/PROJECT_THREE) | A useful tool focused on speed, clarity, and simplicity. | Python · Automation | Building |
 
+</details>
+
 ---
 
-## ✦ GITHUB SIGNALS
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/✦%20GITHUB%20SIGNALS-ff2fd6?style=for-the-badge&labelColor=050509" />
+</summary>
+
+<br/>
 
 ```bash
 > analyze github.activity
@@ -188,9 +241,16 @@ Objective  : Create work that is useful, beautiful, and unforgettable
 
 </div>
 
+</details>
+
 ---
 
-## ✦ PHILOSOPHY
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/✦%20PHILOSOPHY-00e5ff?style=for-the-badge&labelColor=050509" />
+</summary>
+
+<br/>
 
 ```bash
 > decrypt philosophy.enc
@@ -207,9 +267,16 @@ Design is atmosphere.
 Together, they become a future people can feel."
 ```
 
+</details>
+
 ---
 
-## ✦ CONNECT
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/✦%20CONNECT-ff2fd6?style=for-the-badge&labelColor=050509" />
+</summary>
+
+<br/>
 
 ```bash
 > open network.links
@@ -226,18 +293,22 @@ Together, they become a future people can feel."
 </a>
 
 <a href="https://YOUR_PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-050509?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Portfolio-050509?style=for-the-badge&logo=vercel&logoColor=ff2fd6" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&logo=github&logoColor=00e5ff" />
 </a>
 
 </div>
 
+</details>
+
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00e5ff,50:7a5cff,100:ff2fd6" />
 
 ```txt
 ╔══════════════════════════════════════════════════════════════╗

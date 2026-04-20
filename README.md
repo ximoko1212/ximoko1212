@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YOUR%20NAME&fontAlign=50&fontAlignY=38&color=0:0b0b0f,50:151520,100:ff4fd8&fontColor=ff9ae8&fontSize=52&desc=NEON%20FUTURE%20INTERFACE&descAlign=50&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=YOUR%20NAME&fontAlign=50&fontAlignY=40&fontSize=58&desc=CYBERPUNK%20INTERFACE%20ONLINE&descAlign=50&descAlignY=64&animation=fadeIn&color=0:0b0b12,30:121a3a,65:00cfff,100:ff4fd8&fontColor=f8faff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+PROFILE;BUILDING+IN+BLACK+%2B+PINK+MODE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+DIGITAL+SPACE;BLUE+%2B+PINK+NEON+MODE+ACTIVATED" />
 
 <br/>
 
-![](https://img.shields.io/badge/STATUS-ONLINE-ff4fd8?style=for-the-badge&labelColor=0b0b0f)
-![](https://img.shields.io/badge/THEME-CYBERPUNK-ff4fd8?style=for-the-badge&labelColor=0b0b0f)
-![](https://img.shields.io/badge/MODE-NEON%20SCI--FI-ff4fd8?style=for-the-badge&labelColor=0b0b0f)
+![](https://img.shields.io/badge/STATUS-ONLINE-00cfff?style=for-the-badge&labelColor=0b0b12)
+![](https://img.shields.io/badge/THEME-CYBERPUNK-ff4fd8?style=for-the-badge&labelColor=0b0b12)
+![](https://img.shields.io/badge/VIBE-FUTURISTIC-7a5cff?style=for-the-badge&labelColor=0b0b12)
+![](https://img.shields.io/badge/ENERGY-BLUE%20x%20PINK-00cfff?style=for-the-badge&labelColor=0b0b12)
 
 </div>
 
 ---
 
-## ⟡ NAME
+<h2 align="center">✦ NAME ✦</h2>
 
 ```bash
-> IDENTIFIER: YOUR_NAME
-> ROLE: Developer / Designer / Builder
+> NAME: YOUR_NAME
+> ROLE: Developer / Creator / Builder
+> MODE: Cyber-futuristic
 > LOCATION: YOUR_CITY, YOUR_COUNTRY
-> FOCUS: Crafting futuristic digital experiences

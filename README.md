@@ -1,36 +1,35 @@
-<div align="center">
+# Hi, I'm YOUR_NAME 🤖
 
-# Hey there, I'm YOUR_NAME 👋
+I explore data, build machine learning projects, and turn ideas into useful tools.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Learner;Building+cool+things+with+code" />
+## 🧠 Interests
 
-</div>
+- Machine Learning
+- Data Visualization
+- Natural Language Processing
+- Backend APIs
+- Product-minded AI applications
 
----
+## 🛠️ Tech Stack
 
-## 🚀 About Me
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow)
 
-I'm a passionate developer who loves turning ideas into real, working products.
+## 📊 Featured Work
 
-- 🧠 I enjoy learning new technologies
-- 🛠️ I build web apps, tools, and experiments
-- 🌍 I believe software should be simple, useful, and accessible
-- ✨ Always curious, always improving
+| Project | What it does | Tools |
+|---|---|---|
+| ML Project One | Predicts / classifies / analyzes something useful | Python, Scikit-learn |
+| Data Dashboard | Turns raw data into clear visual insights | Python, Streamlit |
+| NLP Tool | Processes and summarizes text | Python, APIs |
 
-## 🧰 Toolbox
+## 📈 GitHub Overview
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-## 📌 What I'm Focused On
+## ✨ Philosophy
 
-```text
-Learning    █████████░░  80%
-Building    ████████░░░  70%
-Debugging   ██████████░  90%
-Coffee      ███████████ 100%
+> Good data work is not only about models — it's about asking better questions.
